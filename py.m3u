@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://i.imgur.com/TpA3cUl.png" group-title="News",CCTV1
 https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-logo="https://i.imgur.com/nbmnGwE.png" group-title="Sports",CCTV-5(1080p)
+#EXTINF:-1 tvg-id="CCTV5" tvg-logo="https://i.imgur.com/nbmnGwE.png" group-title="Sports",CCTV-5(720p)
 http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel5/1300.m3u8
 #EXTINF:-1 tvg-id="CCTV5" tvg-logo="https://i.imgur.com/nbmnGwE.png" group-title="Sports",CCTV-5(Backup)
 http://44966c.netsite.cc/proxy/1233541493/1233541493.m3u8
