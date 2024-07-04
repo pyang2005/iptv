@@ -2,23 +2,25 @@
 #EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://i.imgur.com/TpA3cUl.png" group-title="News",CCTV1
 https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 #EXTINF:-1 tvg-id="CCTV5" tvg-logo="https://i.imgur.com/nbmnGwE.png" group-title="Sports",CCTV-5(720p)
-http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel5/1300.m3u8
+http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-5H265_4000.m3u8
 #EXTINF:-1 tvg-id="CCTV5" tvg-logo="https://i.imgur.com/nbmnGwE.png" group-title="Sports",CCTV-5(Backup-1)
-http://44966c.netsite.cc/proxy/1233541493/1233541493.m3u8
+http://cdn.jdshipin.com:8880/ysp.php?id=cctv5
 #EXTINF:-1 tvg-id="CCTV5" tvg-logo="https://i.imgur.com/nbmnGwE.png" group-title="Sports",CCTV-5(Backup-2)
 http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-5H265_4000.m3u8
+#EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/CCTV6电影" tvg-id="CCTV6电影" tvg-name="CCTV6电影" group-title="央视",CCTV-6(Moive)
+http://cdn.jdshipin.com:8880/ysp.php?id=cctv6
 
-#EXTINF:-1 tvg-id="CCTV5Plus" tvg-logo="https://i.imgur.com/OK8mdJV.png" group-title="Sports",CCTV5+
-https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 #EXTINF:-1 tvg-id="CCTV13" tvg-logo="https://i.imgur.com/6MTar6J.png" group-title="News",CCTV-13 (1080p)
-http://44966c.netsite.cc/proxy/1100148851/1100148851.m3u8
+http://cdn.jdshipin.com:8880/ysp.php?id=cctv13
+
+#EXTINF:-1,凤凰资讯
+http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
+
 #EXTINF:-1 tvg-id="Fox News" tvg-logo="https://www.freepnglogos.com/uploads/fox-news-png-logo/new-fox-news-channel-logo-png-3.png" group-title="News",Fox News
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="CNN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png" group-title="News",CNN HD
-http://38.96.178.201:80/live/CNNHD/index.m3u8
-#EXTINF:-1 tvg-id="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png" group-title="News",CNN
-https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/CNNUSA.us.m3u8
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8?checkedby:iptvcat.net
 #EXTINF:-1 tvg-id="CBS News" tvg-logo="https://mms.businesswire.com/media/20201008005740/en/828766/5/cbs_hero_midnight_logo_092220.jpg"  group-title="News",CBS News
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 #EXTINF:-1 tvg-id="BBC News" tvg-logo="https://iconape.com/wp-content/files/cv/285796/png/bbc-news-logo.png" group-title="News",  BBC
-https://epg.pw/stream/a6cbddde9b44bf2d5c0d0b08a4b48dc86da793a9bef40c18b1f616782744db4c.m3u8
+https://list.iptvcat.com/my_list/s/e42ce3479c971b25bcaf441d8a81b3a3.m3u8
