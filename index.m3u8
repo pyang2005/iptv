@@ -7,7 +7,7 @@ http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-5H265_4000.m3u8
 http://cdn.jdshipin.com:8880/ysp.php?id=cctv5
 #EXTINF:-1 tvg-id="CCTV5" tvg-logo="https://i.imgur.com/nbmnGwE.png" group-title="Sports",CCTV-5(Backup-2)
 http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-5H265_4000.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/CCTV6电影" tvg-id="CCTV6电影" tvg-name="CCTV6电影" group-title="央视",CCTV-6(Moive)
+#EXTINF:-1 tvg-logo="https://zh.wikipedia.org/wiki/%E7%94%B5%E5%BD%B1%E9%A2%91%E9%81%93_(CCTV-6)#/media/File:CCTV-6_Logo.png" tvg-id="CCTV6" tvg-name="CCTV6" group-title="Movie",CCTV-6(Moive)
 http://cdn.jdshipin.com:8880/ysp.php?id=cctv6
 
 #EXTINF:-1 tvg-id="CCTV13" tvg-logo="https://i.imgur.com/6MTar6J.png" group-title="News",CCTV-13 (1080p)
